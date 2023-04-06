@@ -5,5 +5,5 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
 <p align="center">
-<a href="https://www.youtube.com/watch?v=8-uzHmHRpWc"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+<a href="https://www.youtube.com/watch?v=pLICPPzaHbI"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
 <p align="center">
