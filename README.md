@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://kabaforce.com"><img src="assets/hud-baslik.svg" alt="Semih Kaba — KabaForce kurucusu ve baş mühendisi" width="100%"></a>
+  <a href="https://kabaforce.com"><img src="assets/hud-baslik.svg" alt="Semih Kaba — SOC · Pentester · Developer" width="100%"></a>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ Her modül sıfırdan, atölyede yazıldı. İkinci el parça yok.
 ## 🛡️ Savunma sistemleri
 
 <p align="center">
-  <a href="https://security.kabaforce.com"><img src="assets/savunma.svg" alt="Savunma sistemleri: ağ güvenliği, uç nokta, kimlik ve erişim, kriptografi ve PKI, adli bilişim, tehdit tespiti" width="100%"></a>
+  <a href="https://security.kabaforce.com"><img src="assets/savunma.svg" alt="Savunma sistemleri: ağ güvenliği, uç nokta, bilgi güvenliği" width="100%"></a>
 </p>
 
 ## 🔧 MK-0 · Her şey bir mağarada, bir kutu hurdayla başladı

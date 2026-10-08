@@ -71,7 +71,7 @@
   <!-- Kimlik -->
   <text x="400" y="92" class="etiket" font-size="14" fill="#4fd1ff">KABAFORCE // WORKSTATION</text>
   <text x="398" y="166" class="ad" font-size="66" font-weight="800" fill="#ffffff" letter-spacing="4">SEMİH KABA</text>
-  <text x="400" y="204" font-size="20" font-weight="600" fill="#f5b942" letter-spacing="1.5">Kurucu &amp; Baş Mühendis · Founder &amp; Chief Engineer</text>
+  <text x="400" y="204" font-size="20" font-weight="600" fill="#f5b942" letter-spacing="1.5">SOC · Pentester · Developer</text>
 
   <!-- Durum satırları -->
   <g class="etiket" font-size="13" fill="#9fb4c8">
