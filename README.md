@@ -26,7 +26,7 @@ Her modül sıfırdan, atölyede yazıldı. İkinci el parça yok. Tamamı → *
 ## 🛡️ Savunma sistemleri
 
 <p align="center">
-  <a href="https://security.kabaforce.com"><img src="assets/savunma.svg" alt="Savunma sistemleri: ağ güvenliği, uç nokta, bilgi güvenliği, SOC, pentest, geliştirme" width="100%"></a>
+  <a href="https://security.kabaforce.com"><img src="assets/savunma.svg" alt="Savunma sistemleri: ağ güvenliği, uç nokta, bilgi güvenliği, siber güvenlik, ürün inşası, geliştirme" width="100%"></a>
 </p>
 
 ## 🔧 MK-0 · Her şey bir mağarada, bir kutu hurdayla başladı

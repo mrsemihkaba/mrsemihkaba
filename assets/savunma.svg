@@ -47,28 +47,28 @@
   <g class="k" style="animation-delay:0.65s">
     <path d="M56 266H336L344 274V390L332 402H44V278Z" fill="#071222" stroke="#c792ff" stroke-opacity=".5"/>
     <path d="M44 296V278L56 266H88" fill="none" stroke="#c792ff" stroke-width="3"/>
-    <text x="62" y="296" class="m" font-size="11" fill="#c792ff">04 · BLUE TEAM</text>
+    <text x="62" y="296" class="m" font-size="11" fill="#c792ff">04 · DEFENSE &amp; OFFENSE</text>
     <circle cx="322" cy="292" r="4.5" fill="#c792ff" class="y" style="animation-delay:0.9s"/>
-    <text x="62" y="328" font-size="20" font-weight="800" fill="#ffffff">SOC</text>
-    <text x="62" y="358" font-size="13" fill="#b5c6d8">Olay izleme ve korelasyon, alarm</text>
-    <text x="62" y="378" font-size="13" fill="#b5c6d8">triyajı, olay müdahalesi ve raporlama.</text>
+    <text x="62" y="328" font-size="20" font-weight="800" fill="#ffffff">CYBER SEC</text>
+    <text x="62" y="358" font-size="13" fill="#b5c6d8">Olay izleme ve müdahale, sızma</text>
+    <text x="62" y="378" font-size="13" fill="#b5c6d8">testleri, saldırı yüzeyi ve tehdit avı.</text>
   </g>
   <g class="k" style="animation-delay:0.80s">
     <path d="M368 266H648L656 274V390L644 402H356V278Z" fill="#071222" stroke="#ff5b5b" stroke-opacity=".5"/>
     <path d="M356 296V278L368 266H400" fill="none" stroke="#ff5b5b" stroke-width="3"/>
-    <text x="374" y="296" class="m" font-size="11" fill="#ff5b5b">05 · RED TEAM</text>
+    <text x="374" y="296" class="m" font-size="11" fill="#ff5b5b">05 · SHIP</text>
     <circle cx="634" cy="292" r="4.5" fill="#ff5b5b" class="y" style="animation-delay:1.2s"/>
-    <text x="374" y="328" font-size="20" font-weight="800" fill="#ffffff">PENTESTER</text>
-    <text x="374" y="358" font-size="13" fill="#b5c6d8">Web, API ve ağ sızma testleri, saldırı</text>
-    <text x="374" y="378" font-size="13" fill="#b5c6d8">yüzeyi keşfi, bulgu doğrulama ve rapor.</text>
+    <text x="374" y="328" font-size="20" font-weight="800" fill="#ffffff">BUILDER</text>
+    <text x="374" y="358" font-size="13" fill="#b5c6d8">Fikirden canlıya sıfırdan ürün: işletim</text>
+    <text x="374" y="378" font-size="13" fill="#b5c6d8">sistemi, platform ve altyapı.</text>
   </g>
   <g class="k" style="animation-delay:0.95s">
     <path d="M680 266H960L968 274V390L956 402H668V278Z" fill="#071222" stroke="#ff8a5b" stroke-opacity=".5"/>
     <path d="M668 296V278L680 266H712" fill="none" stroke="#ff8a5b" stroke-width="3"/>
-    <text x="686" y="296" class="m" font-size="11" fill="#ff8a5b">06 · BUILD</text>
+    <text x="686" y="296" class="m" font-size="11" fill="#ff8a5b">06 · CODE</text>
     <circle cx="946" cy="292" r="4.5" fill="#ff8a5b" class="y" style="animation-delay:1.5s"/>
     <text x="686" y="328" font-size="20" font-weight="800" fill="#ffffff">DEVELOPER</text>
-    <text x="686" y="358" font-size="13" fill="#b5c6d8">Güvenli yazılım: işletim sisteminden</text>
-    <text x="686" y="378" font-size="13" fill="#b5c6d8">uygulamaya, sunucudan otomasyona.</text>
+    <text x="686" y="358" font-size="13" fill="#b5c6d8">TypeScript, Python, Rust, Qt; temiz,</text>
+    <text x="686" y="378" font-size="13" fill="#b5c6d8">ölçülmüş ve güvenli kod.</text>
   </g>
 </svg>
