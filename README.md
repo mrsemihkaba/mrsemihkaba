@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/semihkaba"><img src="assets/hud-baslik.svg" alt="Semih Kaba — SOC · Pentester · Developer" width="100%"></a>
+  <a href="https://www.linkedin.com/in/semihkaba"><img src="assets/hud-baslik.svg" alt="Semih Kaba — Cyber Sec · Builder · Developer" width="100%"></a>
 </p>
 
 <p align="center">
