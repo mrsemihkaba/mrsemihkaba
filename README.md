@@ -29,6 +29,19 @@ Her modül sıfırdan, atölyede yazıldı. İkinci el parça yok. Tamamı → *
   <a href="https://security.kabaforce.com"><img src="assets/savunma.svg" alt="Savunma sistemleri: ağ güvenliği, uç nokta, bilgi güvenliği, siber güvenlik, ürün inşası, geliştirme" width="100%"></a>
 </p>
 
+## 🧪 Atölye çıktıları · canlı paneller
+
+Her biri gerçek, testli bir araç — ve tarayıcıda hemen deneyebileceğin bir web paneli.
+
+| | Proje | Ne yapar | Panel |
+|---|---|---|---|
+| 🛡️ | **[pentest-rapor](https://github.com/mrsemihkaba/pentest-rapor)** | Resmî algoritmayla birebir CVSS 4.0 hesaplayıcı + sızma testi rapor üretici | [▶ Aç](https://mrsemihkaba.github.io/pentest-rapor/) |
+| 🛡️ | **[tespit-kurallari](https://github.com/mrsemihkaba/tespit-kurallari)** | 33 Sigma + 9 YARA kuralı, her biri testli; ATT&CK matrisi ve log deneme | [▶ Aç](https://mrsemihkaba.github.io/tespit-kurallari/) |
+| 🛡️ | **[ioc-zenginlestir](https://github.com/mrsemihkaba/ioc-zenginlestir)** | IOC çıkarma, defang/refang ve tehdit istihbaratı zenginleştirme | [▶ Aç](https://mrsemihkaba.github.io/ioc-zenginlestir/) |
+| ⚙️ | **[passkey-ornek](https://github.com/mrsemihkaba/passkey-ornek)** | Passkey + TOTP referans sunucusu; adım adım Passkey Laboratuvarı | [▶ Aç](https://mrsemihkaba.github.io/passkey-ornek/) |
+| ⚙️ | **[imzali-depo](https://github.com/mrsemihkaba/imzali-depo)** | Ed25519 imzalı depo indeksi; tarayıcıda imza doğrulama | [▶ Aç](https://mrsemihkaba.github.io/imzali-depo/) |
+| ⚙️ | **[hud-profil](https://github.com/mrsemihkaba/hud-profil)** | Bu sayfadaki HUD görsellerini üreten araç + canlı editör | [▶ Aç](https://mrsemihkaba.github.io/hud-profil/) |
+
 ## 🔧 MK-0 · Her şey bir mağarada, bir kutu hurdayla başladı
 
 İlk prototipler. Küçük, dürüst, çoğu bugün hâlâ çalışıyor.
