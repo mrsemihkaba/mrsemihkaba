@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15">
+  <style>
+    .s { animation: gel .25s ease-out both; }
+    @keyframes gel { from { opacity: 0 } to { opacity: 1 } }
+    .imlec { animation: imlec 1s steps(1) infinite; }
+    @keyframes imlec { 50% { opacity: 0 } }
+    .ok { fill: #22e3a4 } .zaman { fill: #4a6178 } .vurgu { fill: #4fd1ff } .altin { fill: #f5b942 }
+  </style>
+  <rect width="1000" height="250" rx="14" fill="#050a14"/>
+  <rect x=".5" y=".5" width="999" height="249" rx="14" fill="none" stroke="#4fd1ff" stroke-opacity=".25"/>
+  <g fill="#ff5f56"><circle cx="24" cy="22" r="6"/></g><circle cx="44" cy="22" r="6" fill="#ffbd2e"/><circle cx="64" cy="22" r="6" fill="#27c93f"/>
+  <text x="500" y="27" text-anchor="middle" font-size="12" fill="#4a6178" letter-spacing="2">kabaforce@workstation — açılış</text>
+
+  <g fill="#c7d6e5">
+    <text x="28" y="66" class="s" style="animation-delay:.3s"><tspan class="zaman">[ 0.001 ]</tspan> KABAFORCE workstation başlatılıyor…</text>
+    <text x="28" y="92" class="s" style="animation-delay:.9s"><tspan class="zaman">[ 0.214 ]</tspan> KabaOS çekirdek modülleri ................ <tspan class="ok">OK</tspan></text>
+    <text x="28" y="118" class="s" style="animation-delay:1.5s"><tspan class="zaman">[ 0.388 ]</tspan> İmzalı paket deposu ...................... <tspan class="ok">DOĞRULANDI</tspan></text>
+    <text x="28" y="144" class="s" style="animation-delay:2.1s"><tspan class="zaman">[ 0.512 ]</tspan> Güvenlik çevresi ......................... <tspan class="ok">AKTİF</tspan></text>
+    <text x="28" y="170" class="s" style="animation-delay:2.7s"><tspan class="zaman">[ 0.730 ]</tspan> Ziyaretçi algılandı. Niyet analizi ....... <tspan class="altin">TAMAMLANDI</tspan></text>
+    <text x="28" y="214" class="s vurgu" font-size="17" style="animation-delay:3.5s">› Buradasın çünkü işe yarayan projeler arıyorsun. Doğru yerdesin.<tspan class="imlec" fill="#4fd1ff"> █</tspan></text>
+  </g>
+</svg>
