@@ -1,16 +1,16 @@
 <p align="center">
-  <a href="https://kabaforce.com"><img src="assets/hud-baslik.svg" alt="Semih Kaba — SOC · Pentester · Developer" width="100%"></a>
+  <a href="https://www.linkedin.com/in/semihkaba"><img src="assets/hud-baslik.svg" alt="Semih Kaba — SOC · Pentester · Developer" width="100%"></a>
 </p>
 
 <p align="center">
-  <img src="assets/acilis.svg" alt="Buradasın çünkü işe yarayan projeler arıyorsun. Doğru yerdesin." width="100%">
+  <a href="https://kabaforce.com"><img src="assets/acilis.svg" alt="Buradasın çünkü işe yarayan projeler arıyorsun. Doğru yerdesin." width="100%"></a>
 </p>
 
 > *"Önce ölç, sonra 'bitti' de."* — atölyenin tek kuralı.
 
-## ⚙️ Zırh modülleri · Workstation Projects → [kabaforce.com](https://kabaforce.com)
+## ⚙️ Workstation Projects
 
-Her modül sıfırdan, atölyede yazıldı. İkinci el parça yok.
+Her modül sıfırdan, atölyede yazıldı. İkinci el parça yok. Tamamı → **[kabaforce.com](https://kabaforce.com)**
 
 <table>
   <tr>
@@ -26,7 +26,7 @@ Her modül sıfırdan, atölyede yazıldı. İkinci el parça yok.
 ## 🛡️ Savunma sistemleri
 
 <p align="center">
-  <a href="https://security.kabaforce.com"><img src="assets/savunma.svg" alt="Savunma sistemleri: ağ güvenliği, uç nokta, bilgi güvenliği" width="100%"></a>
+  <a href="https://security.kabaforce.com"><img src="assets/savunma.svg" alt="Savunma sistemleri: ağ güvenliği, uç nokta, bilgi güvenliği, SOC, pentest, geliştirme" width="100%"></a>
 </p>
 
 ## 🔧 MK-0 · Her şey bir mağarada, bir kutu hurdayla başladı

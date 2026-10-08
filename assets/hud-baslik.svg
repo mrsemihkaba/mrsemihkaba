@@ -65,7 +65,7 @@
       <animate attributeName="r" values="50;56;50" dur="2.4s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values=".85;1;.85" dur="2.4s" repeatCount="indefinite"/>
     </circle>
-    <path d="M0 -26 L23 14 L-23 14 Z" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" filter="url(#parilti)"/>
+    <text x="0" y="11" text-anchor="middle" font-size="32" font-weight="800" fill="#ffffff" letter-spacing="1" filter="url(#parilti)" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">SK</text>
   </g>
 
   <!-- Kimlik -->
